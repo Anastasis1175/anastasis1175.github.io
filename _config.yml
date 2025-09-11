@@ -2,3 +2,17 @@ theme: jekyll-theme-minimal
 title: Anastasis1175's homepage
 description: Bookmark this to keep an eye on my project updates!
 remote_theme: itszariep/Tessera
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      image: /preview.jpg
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Anastasis1175"
+      image: /preview.jpg
