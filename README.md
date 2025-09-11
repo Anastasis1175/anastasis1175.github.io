@@ -1,5 +1,6 @@
 # Anastasis1175
-## This is my Github website
+## Welcome to Anastasis1175's GitHub Website
+Explore my latest repositories and find ways to connect with me below.
 ### Latest Reposetories
 > [Website Reposetory](https://github.com/Anastasis1175/anastasis1175.github.io)\
 > [Brootforcer](https://github.com/Anastasis1175/Brootforcer/)
