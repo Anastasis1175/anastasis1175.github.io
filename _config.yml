@@ -16,5 +16,15 @@ defaults:
     values:
       author: "Anastasis1175" # Replace with default author name
       image: /preview.jpg
+  -
+social_links:
+  - name: Youtube
+    url: https://youtube.com/@wowthefurry
+    icon: youtube
+  - name: GitHub
+    url: https://github.com/Anastasis1175
+    icon: github
+  - name: WordPress
+    url: https://aivp3.wordpress.com
 paginate: 9
 paginate_path: "/page:num/"
