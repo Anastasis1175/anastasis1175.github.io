@@ -28,3 +28,7 @@ social_links:
     url: https://aivp3.wordpress.com
 paginate: 9
 paginate_path: "/page:num/"
+collections:
+			chapters:
+				output: true
+				permalink: /:name/
