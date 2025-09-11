@@ -14,5 +14,5 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Anastasis1175"
+      author: "Anastasis1175" # Replace with default author name
       image: /preview.jpg
