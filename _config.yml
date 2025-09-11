@@ -16,3 +16,5 @@ defaults:
     values:
       author: "Anastasis1175" # Replace with default author name
       image: /preview.jpg
+paginate: 9
+paginate_path: "/page:num/"
