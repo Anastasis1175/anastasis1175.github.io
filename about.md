@@ -1,1 +1,1 @@
-../about/Anastasis1175.md
+..about/Anastasis1175.md
