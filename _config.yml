@@ -4,17 +4,18 @@ description: Bookmark this to keep an eye on my project updates!
 defaults:
   - 
     scope:
-      path: ""
-      type: "pages"
+  		path: ""
+  		type: "pages"
     values:
-      image: /preview.jpg
+		author: "Anastasis1175"
+    	image: /preview.jpg
   -
     scope:
-      path: ""
-      type: "posts"
+		path: ""
+    	type: "posts"
     values:
-      author: "Anastasis1175" # Replace with default author name
-      image: /preview.jpg
+	    author: "Anastasis1175" # Replace with default author name
+	    image: /preview.jpg
   -
 social_links:
   - name: Youtube
