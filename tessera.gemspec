@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "tessera-jekyll-theme"
   spec.version       = "0.2.0"
-  spec.authors       = ["ItsZariep"]
-  spec.email         = ["itszariep@disroot.org"]
+  spec.authors       = ["Anastasis1175"]
+  spec.email         = ["anastasisapostolidis1@gmail.com"]
 
   spec.summary       = "Simple jekyll theme with a grid layout"
-  spec.homepage      = "https://github.com/itszariep/tessera"
+  spec.homepage      = "https://github.com/Anastasis1175"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_data|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
