@@ -32,4 +32,4 @@ collections:
 			chapters:
 				output: true
 				permalink: /:name/
-homepage: "/index.html"
+home: "/index.html"
