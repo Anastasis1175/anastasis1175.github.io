@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Us
+permalink: /about/
+---
 # Hi I'm Anastasis
 > or Aivp or wow.
 ## Programming languages
