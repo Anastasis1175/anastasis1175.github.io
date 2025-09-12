@@ -4,14 +4,14 @@ description: Bookmark this to keep an eye on my project updates!
 defaults:
   - 
     scope:
-  		path: ""
+  		path: "/_pages"
   		type: "pages"
     values:
 		author: "Anastasis1175"
     	image: /preview.jpg
   -
     scope:
-		path: ""
+		path: "/_posts"
     	type: "posts"
     values:
 	    author: "Anastasis1175" # Replace with default author name
