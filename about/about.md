@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-permalink: /about/about
+permalink: /about/about.md
 ---
 # Hi I'm Anastasis
 > or Aivp or wow.
