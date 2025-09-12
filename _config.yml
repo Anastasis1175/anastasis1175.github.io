@@ -1,3 +1,4 @@
+remote-theme: 
 title: Anastasis1175's homepage
 description: Bookmark this to keep an eye on my project updates!
 defaults:
@@ -30,4 +31,6 @@ collections:
 			chapters:
 				output: true
 				permalink: /:name/
+				section: Web
+				order: 1
 home: "/index.html"
