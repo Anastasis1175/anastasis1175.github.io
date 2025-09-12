@@ -4,19 +4,20 @@ description: Bookmark this to keep an eye on my project updates!
 defaults:
   - 
     scope:
-  		path: "/_pages"
-  		type: "pages"
+  	  path: "/_pages"
+  	  type: "pages"
     values:
-		author: "Anastasis1175"
-    	image: /preview.jpg
+	  author: "Anastasis1175"
+      image: /preview.jpg
   -
     scope:
-		path: "/_posts"
-    	type: "posts"
+	  path: "/_posts"
+      type: "posts"
     values:
-	    author: "Anastasis1175" # Replace with default author name
-	    image: /preview.jpg
-  -
+	  author: "Anastasis1175" # Replace with default author name
+	  image: /preview.jpg
+plugins:
+  - jekyll-feed
 social_links:
   - name: Youtube
     url: https://youtube.com/@wowthefurry
@@ -29,9 +30,9 @@ social_links:
 paginate: 9
 paginate_path: "/page:num/"
 collections:
-			chapters:
-				output: true
-				permalink: /:name/
-				section: Web
-				order: 1
+		  chapters:
+			  output: true
+			  permalink: /:name/
+			  section: Web
+			  order: 1
 home: "/index.html"
