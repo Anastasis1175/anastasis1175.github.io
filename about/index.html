@@ -3,6 +3,7 @@ layout: about
 permalink: /about/
 paginate: 9
 ---
+
 <html>
   <head>
     <meta charset="UTF-8">
@@ -31,5 +32,18 @@ paginate: 9
     <a href="https://discord.com/users/1326910969045323806">Discord</a>\
     <a href="https://account.xbox.com/profile?gamertag=Anastasis#1175">XBOX</a>\
     <a href="https://aivp3.wordpress.com">Wordpress WebSite</a></p>
+    <div class="max-w-6xl mx-auto">
+        <!-- Title & Instruction Block -->
+        <h1 class="text-4xl font-extrabold text-gray-900 mb-2">My Latest Projects</h1>
+        <p class="text-lg text-gray-600 mb-8">Showcasing my most recently updated public repositories from GitHub.</p>
+
+        <!-- Loading & Error Container -->
+        <div id="status-message" class="text-center p-8 hidden"></div>
+
+        <!-- Repository Container -->
+        <div id="repos-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Repository cards will be injected here by JavaScript -->
+        </div>
+    </div>
   </body>
 </html>
