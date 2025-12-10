@@ -9,6 +9,8 @@ From Videos:
 [Shock](Shock.gdr)\
 [Magmatic Sanctuary](MagmaticSanctuary.gdr)\
 [Overture](Overture.gdr)
+[The Thing](The thing.gdr)
+[A LA CARTE]
 
 If you want to post a macro hit me up with an e-mail\
 [Click here to email me](mailto:wow117523@gmail.com)
